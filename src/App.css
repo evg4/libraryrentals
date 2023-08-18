@@ -58,3 +58,15 @@ button:hover {
 button:disabled {
   opacity: 60%;
 }
+
+footer p {
+  text-align: left;
+}
+
+a {
+  color: beige;
+}
+
+a:hover {
+  text-decoration: none;
+}

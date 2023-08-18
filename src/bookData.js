@@ -1,5 +1,3 @@
-import React from "react";
-
 const options = [
   "Harry Potter and the Philosopher's Stone",
   "Harry Potter and the Chamber of Secrets",

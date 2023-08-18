@@ -24,7 +24,6 @@ function BookList() {
 
   return (
     <div>
-      <h1>Library rentals</h1>
       <div id="list">
         <h2>Books on your reading list:</h2>
         <p>

@@ -1,13 +1,21 @@
-import logo from "./logo.svg";
 import "./App.css";
-
+import Header from "./header";
 import BookList from "./books";
+import Footer from "./footer";
 
 function App() {
   return (
-    <div className="App">
-      <BookList />
-    </div>
+    <>
+      <header>
+        <Header />
+      </header>
+      <main>
+        <BookList />
+      </main>
+      <footer>
+        <Footer />
+      </footer>
+    </>
   );
 }
 
